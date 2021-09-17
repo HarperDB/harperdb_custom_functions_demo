@@ -1,6 +1,6 @@
 # HarperDB Custom Functions Demo Project
 
-This repo comprises a set of Fastify routes, helpers, and static content to be loaded by HarperDB's Custom Functions Fastify Server.
+This directory comprises a set of Fastify routes, helpers, and static content to be loaded by HarperDB's Custom Functions Fastify Server.
 
 To deploy the routes in this demo project, simply copy this `dogs` folder into your `custom_functions` folder. By default, this folder is located in your HarperDB user folder `(~/hdb)`.
 
